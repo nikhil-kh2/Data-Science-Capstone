@@ -1,6 +1,6 @@
 # Data-Science-Capstone
 1 - Hands-on Lab_ Complete the Data Collection API Lab.ipynb
-2 - Hands-on Lab_ Data Collection with Web Scraping.ipynb
+2 - Hands-on Lab_ Data Collection with Web Scraping.ipynb.
 3 - Hands-On Lab_ Data Wrangling.ipynb
 4 - Hands-on Lab Complete the EDA with SQL.ipynb
 5 - jupyter-labs-eda-dataviz.ipynb
